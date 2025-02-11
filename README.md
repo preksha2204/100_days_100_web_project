@@ -137,6 +137,7 @@ This repository contains 100 web projects from basic to intermediate using html 
 | Day 109 | CRYPTOSHOW | [CRYPTOSHOW](public/CRYPTOSHOW)| |
 | Day 110 | Whack-a-Mole Game | [Whack-a-Mole Game](<public/Whack-a-Mole Game>)| |
 
+
 ## Discord Channel for VSoC 2024 Contributors
 
 Now, resolve your all doubts and communicate with our all contributors.
